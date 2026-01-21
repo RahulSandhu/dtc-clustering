@@ -1,0 +1,5 @@
+,age,gender,smoking,hx_radiotherapy,thyroid_function,physical_examination,adenopathy,pathology,focality,risk,stage,response
+Cluster 0,"33.0 [27.0, 38.0]",F: 53 (76.8%),Never: 61 (88.4%),No: 69 (100.0%),Euthyroid: 61 (88.4%),Multinodular goiter: 35 (50.7%),Right: 26 (37.7%),Papillary: 65 (94.2%),Multi-Focal: 41 (59.4%),Intermediate: 64 (92.8%),I: 67 (97.1%),Structural Incomplete: 40 (58.0%)
+Cluster 1,"51.0 [45.0, 60.0]",F: 79 (89.8%),Never: 82 (93.2%),No: 88 (100.0%),Euthyroid: 79 (89.8%),Single nodular goiter-left: 29 (33.0%),No: 87 (98.9%),Papillary: 51 (58.0%),Uni-Focal: 69 (78.4%),Low: 83 (94.3%),I: 86 (97.7%),Excellent: 54 (61.4%)
+Cluster 2,"62.0 [56.0, 71.0]",M: 30 (52.6%),Current: 31 (54.4%),No: 51 (89.5%),Euthyroid: 48 (84.2%),Multinodular goiter: 33 (57.9%),No: 20 (35.1%),Papillary: 40 (70.2%),Multi-Focal: 50 (87.7%),Intermediate: 28 (49.1%),II: 28 (49.1%),Structural Incomplete: 40 (70.2%)
+Cluster 3,"30.0 [26.0, 35.0]",F: 153 (90.5%),Never: 151 (89.3%),No: 168 (99.4%),Euthyroid: 144 (85.2%),Single nodular goiter-right: 84 (49.7%),No: 158 (93.5%),Papillary: 131 (77.5%),Uni-Focal: 143 (84.6%),Low: 162 (95.9%),I: 169 (100.0%),Excellent: 140 (82.8%)

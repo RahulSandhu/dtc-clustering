@@ -1,0 +1,15 @@
+# Environments
+.venv/
+
+# Configuration files
+config/
+
+# Jupyter notebook checkpoints 
+**/.ipynb_checkpoints
+
+# Presentation and report
+presentation/*
+report/*
+
+!presentation/main.pdf
+!report/main.pdf
