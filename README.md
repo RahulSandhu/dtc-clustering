@@ -31,7 +31,7 @@ statistical validation.
    pip install -r requirements.txt
 ```
 
-## 📊 Dataset
+## 📁 Dataset
 
 The project analyzes a cohort of **383 differentiated thyroid cancer patients**
 with comprehensive clinical, pathological, and treatment response data. Key
@@ -48,7 +48,7 @@ features include:
 The analysis uses **K-means clustering** with optimal cluster selection via the
 elbow method and silhouette analysis to identify natural patient subgroups.
 
-## 🔬 Results
+## 📊 Results
 
 Our clustering analysis identified **four distinct patient phenotypes** with
 different recurrence patterns:
