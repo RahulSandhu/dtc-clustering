@@ -79,6 +79,6 @@ C0-C3 and C2-C3 demonstrating the strongest divergence.
   Repository](https://archive.ics.uci.edu/dataset/915/differentiated+thyroid+cancer+recurrence)
   — Differentiated Thyroid Cancer Recurrence dataset
 - Developed as part of the Project and Research Methodologies course in the
-  Master in Health Data Science at Universitat Rovira i Virgili (URV)
+  Master in Health Data Science program at Universitat Rovira i Virgili (URV)
 
 </div>
